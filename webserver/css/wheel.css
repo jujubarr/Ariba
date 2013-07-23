@@ -1,0 +1,51 @@
+#wheel {
+    text-align:center;
+    position:relative;
+    display:none;
+}
+#wheel path {
+  stroke: #888;
+  stroke-width: 1.5;
+  cursor: pointer;
+}
+
+#wheel text {
+  font: 11px sans-serif;
+  cursor: pointer;
+}
+#wheel svg {
+    margin-top:5%;
+}
+p#intro {
+  text-align: center;
+  margin: 1em 0;
+}
+
+#breadcrumbs { display: none; }
+
+#network {
+    text-align:center;
+    position:relative;
+    display:none;   
+}
+#network svg {
+    margin-top:5%;
+}
+#network circle {
+  fill: none;
+  pointer-events: all;
+}
+
+#network .group path {
+  fill-opacity: .5;
+}
+
+#network path.chord {
+  stroke: #000;
+  stroke-width: .25px;
+}
+
+#circle:hover path.fade {
+  display: none;
+}
+

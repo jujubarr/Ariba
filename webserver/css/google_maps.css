@@ -1,0 +1,42 @@
+/*
+ * The div of the map
+ */
+#div_map {
+    width: 100%;
+    display: none;
+}
+
+/*
+* Each visualization
+*/
+.map_canvas {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    z-index: 0;
+    display: none;
+}
+
+.map_canvas_special {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 150px;
+    z-index: 0;
+    display: none;
+}
+/*
+ * The div of the key of the map
+ */
+#canvas {
+    margin-left: -200px;
+    padding: 0;
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    text-align: center;
+    z-index: 1;
+}

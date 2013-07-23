@@ -1,0 +1,46 @@
+.line {
+    fill: none;
+    stroke: #000;
+    stroke-width: 1.5px;
+}
+.axis path, .axis line {
+    margin-left: 30px;
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+svg {
+    font: 10px sans-serif;
+}
+
+/*
+#restart{
+    visibility: hidden;
+}
+*/
+
+#stream_graph{
+    display: none;
+    margin-left: 70px;
+    height: 500px;
+    position:relative;
+}
+
+#stream_graph_labels{
+	position:absolute;
+	right:200px;
+    top:50%;
+    font-weight:bold;
+}
+
+#usd_label {
+	color: #5A6A4F;
+}
+
+#euro_label {
+	color: #6C74B3;
+}
+#cny_label {
+	color: #C4502B;
+}
+

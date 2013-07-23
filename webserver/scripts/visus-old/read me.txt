@@ -1,0 +1,9 @@
+visu13	-	The Original
+visu14 	-	Floral Patterns
+	-	Thinner strokes
+	-	Fade 2x as fast
+	-	(in contrast to 13)
+visu15	-	Currency is displayed at the head of each transaction arch
+visu16 	-	Smiley landing
+visu17  -	Info bubble that displays continental data
+visu18  - 	Debugging capabilities 

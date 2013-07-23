@@ -1,0 +1,383 @@
+[
+  {
+    "name": "Office Products",
+    "children": [
+      {
+        "name": "Office Supplies",
+        "children": [
+          {
+            "name": "Desk Supplies",
+            "children": [
+              {
+                "name": "Tape Dispensers", "colour": "#FFFF70"
+              }
+            ]
+          },
+          {
+            "name": "Folders, Binders & Indexes",
+            "children": [
+              {
+                "name": "Hanging Folders or Accessories", "colour": "#FFDB70"
+              }
+            ]
+          },
+          {
+            "name": "Organizers & Accessories",
+            "children": [
+              {
+                "name": "Message Holders & Dispensers", "colour": "#DBFF70"
+              },
+              {
+                "name": "Literature Rack", "colour": "#FFE05B"
+              },
+              {
+                "name": "Supports for Diaries or Calendars", "colour": "#FFE303"
+              }
+            ]
+          },
+          {
+            "name": "Boards",
+            "children": [
+              {
+                "name": "Bulletin Boards or Accessories", "colour": "#FFED28"
+              }
+            ]
+          },
+          {
+            "name": "Planning Systems",
+            "children": [
+              {
+                "name": "Calendars", "colour": "#FFDF5E"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Calculating Machines & Accessories",
+        "children": [
+          {
+            "name": "Calculators or Accessories",
+            "children": [
+                {
+                    "name": "Calculators", "colour": "#F7C500"
+                },
+                {
+                    "name": "Calculator Accessories", "colour": "#F7C500"
+                }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Building & Construction",
+    "children": [
+      {
+        "name": "Support & Maintenence",
+        "children": [
+          {
+            "name": "Support",
+            "children": [
+              {
+                "name": "Scaffolding", "colour": "#FA7DA7"
+              },
+              {
+                "name": "Locksmith", "colour": "#C84973"
+              },
+              {
+                "name": "Elevator Service", "colour": "#e098b0"
+              }
+            ]
+          },
+          {
+            "name": "Site Preparation",
+            "children": [
+              {
+                "name": "Demolition", "colour": "#FF3261"
+              },
+              {
+                "name": "Digging", "colour": "#C84973"
+              },
+              {
+                "name": "Land Clearing", "colour": "#e098b0"
+              }
+            ]
+          },
+          {
+            "name": "Refurbishing Services",
+            "children": [
+              {
+                "name": "Renovation", "colour": "#FF3261"
+              },
+              {
+                "name": "Restoration", "colour": "#e098b0"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "General Construction",
+        "children": [
+          {
+            "name": "Commercial & Industrial Construction",
+            "children": [
+              {
+                "name": "Power Plant Construction", "colour": "#e098b0"
+              },
+              {
+                "name": "Retail Construction", "colour": "#DD2A66"
+              }
+            ]
+          },
+          {
+            "name": "Infrastructure Construction",
+            "children": [
+              {
+                "name": "Bridge Construction", "colour": "#C84973"
+              },
+              {
+                "name": "Highway Surfacing", "colour": "#FF3261"
+              }
+            ]
+          },
+          {
+            "name": "Residential Construction",
+            "children": [
+              {
+                "name": "Apartment Construction", "colour": "#e098b0"
+              },
+              {
+                "name": "Home Construction", "colour": "#C84973"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Education & Training Services",
+    "children": [
+      {
+		"name": "Educational Facilities",
+        "children": [
+          {
+            "name": "Educational Technology",
+            "children": [
+             {
+                "name": "Educational Technology", "colour": "#99CC66"
+             },
+             {
+                "name": "Computer Generated Instruction", "colour": "#66CC95"
+             },
+             {
+                "name": "Library & Documentation", "colour": "#448963"
+             },
+             {
+                "name": "Audio Visual Technology", "colour": "#628772"
+             }
+            ]
+          },
+          {
+            "name": "Educational Guidance Services",
+            "children": [
+             {
+                "name": "Educational Advisory Services", "colour": "#34842D"
+             },
+             {
+                "name": "Study Abroad Guidance Services", "colour": "#99CC66"
+             },
+             {
+                "name": "Tuition Reimbursement Programs", "colour": "#ACE572"
+             }
+            ]
+          }
+        ]
+	  },
+      {
+		"name": "Educational Institutions",
+        "children": [
+          {
+            "name": "Elementary & Secondary Schools",
+            "children": [
+             {
+                "name": "Preschool Educational Services", "colour": "#87E226"
+             },
+             {
+                "name": "Private Elementary / Secondary Services", "colour": "#99CC2B"
+             },
+             {
+                "name": "Public Elementary / Secondary Services", "colour": "#65CC66"
+             },
+             {
+                "name": "Religious Elementary / Secondary Services", "colour": "#659F66"
+             }
+            ]
+          },
+          {
+            "name": "Junior Colleges",
+            "children": [
+             {
+                "name": "Community Colleges", "colour": "#65D966"
+             },
+             {
+                "name": "Technical Institutes", "colour": "#99CCAA"
+             }
+            ]
+          },
+          {
+            "name": "Universities & Colleges",
+            "children": [
+             {
+                "name": "Undergraduate Programs", "colour": "#5FCC82"
+             },
+             {
+                "name": "Postgraduate Programs", "colour": "#A7CCB2"
+             }
+            ]
+          }
+        ]
+	  }
+	]
+  },
+  {
+    "name": "Paper Materials & Products",
+    "children": [
+      {
+		"name": "Paper Products",
+        "children": [
+          {
+            "name": "Business Use Paper",
+            "children": [
+             {
+                "name": "Accounting Forms", "colour": "#33CCFF"
+             },
+             {
+                "name": "Checkbooks", "colour": "#7CE0FF"
+             },
+             {
+                "name": "Reciept Books", "colour": "#5EAAC1"
+             }
+            ]
+          },
+          {
+            "name": "Personal Paper Products",
+            "children": [
+             {
+                "name": "Facial Tissues", "colour": "#5EC6C1"
+             },
+             {
+                "name": "Paper Towels", "colour": "#33CCFF"
+             },
+             {
+                "name": "Toilet Tissue", "colour": "#2492B7"
+             }
+            ]
+          },
+          {
+            "name": "Printing & Writing Paper",
+            "children": [
+             {
+                "name": "Graph Paper", "colour": "#1892B7"
+             },
+             {
+                "name": "Index Cards", "colour": "#7CC4FF"
+             },
+             {
+                "name": "Printer Paper", "colour": "#32A3FF"
+             }
+            ]
+          }
+        ]
+	  }
+	]
+  },
+  {
+    "name": "Power Generation & Distribution Machinery",
+    "children": [
+      {
+		"name": "Batteries and Kinetic Power Transmission",
+        "children": [
+          {
+            "name": "Batteries and Cells",
+            "children": [
+             {
+                "name": "Lithium Batteries", "colour": "#A347FF"
+             },
+             {
+                "name": "Vehicle Batteries", "colour": "#8914FF"
+             },
+             {
+                "name": "Bettery Testers", "colour": "#8969FF"
+             }
+            ]
+          },
+          {
+            "name": "Power Generators",
+            "children": [
+             {
+                "name": "Diesel Generators", "colour": "#B5A3FF"
+             },
+             {
+                "name": "Gas Generators", "colour": "#A347FF"
+             },
+             {
+                "name": "Thermal Generators", "colour": "#6A2EA5"
+             }
+            ]
+          },
+          {
+            "name": "Drive Components",
+            "children": [
+             {
+                "name": "Beltguards", "colour": "#6A2E55"
+             },
+             {
+                "name": "Flat Belts", "colour": "#C43E95"
+             },
+             {
+                "name": "Timing Pulley", "colour": "#BE47FF"
+             }
+            ]
+          }
+        ]
+	  },
+      {
+		"name": "Power Generation",
+        "children": [
+          {
+            "name": "Power Plants",
+            "children": [
+             {
+                "name": "Wind Power Plants", "colour": "#C666FF"
+             },
+             {
+                "name": "Gas Power Plants", "colour": "#9D51CC"
+             },
+             {
+                "name": "Hydro Power Plants", "colour": "#9D80CC"
+             }
+            ]
+          },
+          {
+            "name": "Power Gernerator Control Equipment",
+            "children": [
+             {
+                "name": "Compressor Control Panels", "colour": "#A347FF"
+             },
+             {
+                "name": "Electrical Control Panels", "colour": "#A3479B"
+             },
+             {
+                "name": "Steam Turbine Control Panels", "colour": "#A3789B"
+             }
+            ]
+          }
+        ]
+	  }
+	]
+  }
+]

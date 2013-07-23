@@ -1,0 +1,157 @@
+/*
+    Copyright (c) 1999-2012 Ariba, Inc.
+    All rights reserved. Patents pending.
+
+    arecibo/menu.css
+
+    Responsible: ahebert
+ */
+html {
+    height:100%;
+}
+body {
+    margin: 0px;
+    height:100%;
+    font-family: Arial,sans-serif;
+}
+
+#header {
+    background-color: white;
+}
+
+#logo {
+    height: 42px;
+    width: 261px;
+    margin: 20px;
+}
+
+#texture {
+    background: url(http://www.ariba.com/assets/images/design/background_repeat_4x4.gif) repeat top;
+    height: 100%;
+    opacity: 0.2;
+    filter: alpha(opacity=20);
+    position: fixed;
+    width: 100%;
+    z-index: -2;
+}
+
+/*
+* The div of the whole menu
+*/
+#div_menu {
+    width: 100%;
+    _background-image:url(../img/cloud.png);
+}
+
+/*
+ * Each visualization thumb in the menu
+ */
+.viz_thumb {
+    height: 400px;
+    width: 30%;
+    margin: 20px;
+    display: inline-block;
+    border: 1px solid #DBDADA;    
+    background-size: 100% 100%;
+    vertical-align: top;
+}
+
+/*
+ * Each mini map in the menu
+ */
+.menu_maps {
+    height: 100%;
+    width: 100%;
+    z-index: 0;
+}
+
+/*
+ * Each mini map in the menu
+ */
+.menu_others {
+    height: 400px;
+    width: 400px;
+    z-index: 0;
+}
+
+.menu_others:hover {
+    cursor: pointer;
+}
+
+#viz1 {
+    background-image: url("../img/1.jpg");
+}
+
+#viz2 {
+    background-image: url("../img/2.jpg");
+}
+
+#viz3 {
+    background-image: url("../img/3.jpg");
+}
+
+#viz4 {
+    background-image: url("../img/4.jpg");
+}
+
+#viz5 {
+    background-image: url("../img/5.jpg");
+    cursor: pointer;
+}
+
+#viz6 {
+    background-image: url("../img/6.jpg");
+}
+
+#viz7 {
+    background-image: url("../img/7.jpg");
+}
+
+#viz8 {
+    background-image: url("../img/8.jpg");
+}
+
+#viz9 {
+    background-image: url("../img/9.jpg");
+}
+
+#viz10 {
+    background-image: url("../img/10.png");
+}
+
+#viz11 {
+    background-image: url("../img/11.png");
+}
+
+#viz12 {
+    background-image: url("../img/12.jpg");
+}
+
+.control {
+    font-size : 13px;
+    padding: 1px 6px;
+    font-weight:bold;
+    background-color : white;
+    border: 1px solid #717B87;
+    text-align:center;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px;
+    cursor:pointer;
+}
+.controlPos {
+    position:absolute;
+    right:20px;
+    top:10px;
+}
+
+.help {
+    background-color: white;
+    border: 1px solid #CCC;
+    padding: 10px;
+    width: 200px;
+    position: absolute;
+    right: 20px;
+    top: 50px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.398438) 0px 2px 4px;
+    font-size: 12px;
+    color: #555;
+}

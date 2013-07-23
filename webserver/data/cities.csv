@@ -1,0 +1,12 @@
+name,latitude,longitude,population,color
+United States,0.7244,0.421,0.059392,#0033cc
+Canada,37.7107,-122.4372,0.006505,#FF6699
+Africa,37.8021,-122.4369,0.194847,#FFFFCC
+Central America,37.793,-122.416,0.007956,#339900
+South America,37.793,-122.416,0.073526,#3366ff
+China,37.793,-122.416,0.255092,#CC3333
+India,37.793,-122.416,0.233423,#9933FF
+Australia,37.793,-122.416,0.00425,#CCFF66
+Russia,37.793,-122.416,0.027019,#ccffff
+East Europe,37.793,-122.416,0.035086,#996600
+West Europe,37.793,-122.416,0.078681,#ffff33
